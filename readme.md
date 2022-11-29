@@ -7,8 +7,9 @@
 ## Revision Topics
 
 - Setting up React Native Project using Expo
-- React native core components like View, Text, StyleSheet, TouchableOpacity
+- React native core components like View, Text, StyleSheet
 - React native navigation
+- Redux
 
 ### Pre-requisites
 
